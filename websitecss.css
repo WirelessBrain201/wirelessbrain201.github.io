@@ -1,0 +1,57 @@
+.navbar-default {
+	background-color: #474747;
+	border-color: #474747;
+	border-radius: 0;
+}
+
+body, html {
+	font-family: 'Hind Siliguri', sans-serif;
+	background-image: url(https://i.redd.it/30k0ig3xbkr01.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.container .jumbotron {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.firstHeading {
+	margin-top: 10px;
+}
+
+.jumbotron hr {
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+body {
+	padding-top: 70px;
+}
+
+/*.divider {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(213, 213, 213, 0.4), rgba(213, 213, 213, 1), rgba(213, 213, 213, 0.4));
+}*/
+
+.navbar-default .navbar-nav .active a {
+	border-top-color: #474747;
+	border-top-width: 1px;
+	border-top-style: solid;
+}
+
+#rohaanImage {
+	width: 20%;
+	margin-right: 15px;
+}
